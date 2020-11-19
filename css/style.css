@@ -133,6 +133,8 @@
 .hero-section {
   background-color: #2f303a;
   text-align: center;
+  padding-top: 200px;
+  padding-bottom: 200px;
 }
 
 .hero-title {
@@ -149,7 +151,6 @@
   margin-bottom: 30px;
   margin-left: auto;
   margin-right: auto;
-  padding-top: 200px;
 }
 
 .button {
@@ -170,12 +171,8 @@
   text-align: center;*/
 }
 
-.button-box {
-  padding-bottom: 200px;
-}
-
 /*==================================   priority   ==============================*/
-.priority-section {
+.priority-container {
   padding-bottom: 94px;
   padding-top: 94px;
   padding-left: 15px;
@@ -345,13 +342,12 @@
 }
 
 /*=================================      !!!   Portfolio  !!!   =================================*/
-.portfolio-wraper {
-  margin-bottom: 94px;
-}
+
 /*=============================   buttons   ============================*/
 
 .section-portfolio {
   margin-bottom: 94px;
+  padding-top: 94px;
 }
 
 .button-menu {
@@ -433,9 +429,9 @@
 }
 
 .img-sample {
-  margin-bottom: 20px;
+  margin-bottom: 0px;
 }
 .about-work {
-  padding-left: 24px;
-  margin-bottom: 20px;
+  padding: 20px 24px;
+  /*margin-bottom: 20px;*/
 }
