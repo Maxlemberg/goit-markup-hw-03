@@ -30,7 +30,7 @@
 }
 
 .wraper {
-  width: 1230px;
+  width: 1200px;
   /*outline: 1px solid red;*/
   padding-left: 15px;
   padding-right: 15px;
@@ -387,9 +387,6 @@
 
 /*======================   item-menu   =======================*/
 .item-menu {
-  padding-left: 15px;
-  padding-right: 15px;
-
   display: flex;
   flex-wrap: wrap;
 }
